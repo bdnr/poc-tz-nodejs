@@ -1,0 +1,15 @@
+{
+  "name": "poc-tz-nodejs",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "NodeJS PoC container for TZ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milan Bednar",
+  "license": "MIT",
+  "dependencies": {
+    "ibm_db2": "latest"
+  }
+}
